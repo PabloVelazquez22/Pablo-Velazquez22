@@ -37,28 +37,6 @@
 
 
 
-### 📋 Frontend Development
-
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-</p>
-
-
-
-
-### ☁️ Cloud
-
-<p align="left"> 
- <a href="https://cloud.google.com/" target="_blank"> 
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/>
-  </a> 
-</p>
-
-
-
-
 ### ♾️ DevOps
 
 <p align="left"> 
