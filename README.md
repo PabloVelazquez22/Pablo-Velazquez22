@@ -6,7 +6,7 @@
 
 
 
-- 🏫 Formación: Estudiante avanzado de la Tecnicatura en Inteligencia Artificial (UNR).
+- 🏫 Formación: Estudiante avanzado de la Tecnicatura en la Inteligencia Artificial (UNR).
 - 🧠 Áreas de interés y formación:
    * Programación en Python
    * Fundamentos de Inteligencia Artificial
